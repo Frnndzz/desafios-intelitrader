@@ -1,0 +1,14 @@
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\bin\Debug\net8.0\menor_distancia_array.exe
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\bin\Debug\net8.0\menor_distancia_array.deps.json
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\bin\Debug\net8.0\menor_distancia_array.runtimeconfig.json
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\bin\Debug\net8.0\menor_distancia_array.dll
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\bin\Debug\net8.0\menor_distancia_array.pdb
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\obj\Debug\net8.0\menor_distancia_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\obj\Debug\net8.0\menor_distancia_array.AssemblyInfoInputs.cache
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\obj\Debug\net8.0\menor_distancia_array.AssemblyInfo.cs
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\obj\Debug\net8.0\menor_distancia_array.csproj.CoreCompileInputs.cache
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\obj\Debug\net8.0\menor_distancia_array.dll
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\obj\Debug\net8.0\refint\menor_distancia_array.dll
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\obj\Debug\net8.0\menor_distancia_array.pdb
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\obj\Debug\net8.0\menor_distancia_array.genruntimeconfig.cache
+C:\Users\fonte\source\repos\menor_distancia_array\menor_distancia_array\obj\Debug\net8.0\ref\menor_distancia_array.dll

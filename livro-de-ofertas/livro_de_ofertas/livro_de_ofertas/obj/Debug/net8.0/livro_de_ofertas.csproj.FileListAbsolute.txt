@@ -1,0 +1,14 @@
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\bin\Debug\net8.0\livro_de_ofertas.exe
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\bin\Debug\net8.0\livro_de_ofertas.deps.json
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\bin\Debug\net8.0\livro_de_ofertas.runtimeconfig.json
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\bin\Debug\net8.0\livro_de_ofertas.dll
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\bin\Debug\net8.0\livro_de_ofertas.pdb
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\obj\Debug\net8.0\livro_de_ofertas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\obj\Debug\net8.0\livro_de_ofertas.AssemblyInfoInputs.cache
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\obj\Debug\net8.0\livro_de_ofertas.AssemblyInfo.cs
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\obj\Debug\net8.0\livro_de_ofertas.csproj.CoreCompileInputs.cache
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\obj\Debug\net8.0\livro_de_ofertas.dll
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\obj\Debug\net8.0\refint\livro_de_ofertas.dll
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\obj\Debug\net8.0\livro_de_ofertas.pdb
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\obj\Debug\net8.0\livro_de_ofertas.genruntimeconfig.cache
+C:\Users\fonte\source\repos\livro_de_ofertas\livro_de_ofertas\obj\Debug\net8.0\ref\livro_de_ofertas.dll
