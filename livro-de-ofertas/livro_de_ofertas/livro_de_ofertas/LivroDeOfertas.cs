@@ -2,7 +2,9 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
-using System.Linq; 
+using System.Linq;
+
+//LINK PARA EXECUTAR https://www.programiz.com/online-compiler/7fkEWS1W4ylXo
 
 public class LivroDeOfertas
 {
